@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ DeliamanHarefa-gif
-- 👀 I’m interested in job Turing busynes analist
+- 👀 I’m interested in job Turing busines analyst
 - 🌱 I’m currently learning howa to data analyst and coding,java.
 - 💞️ I’m looking to collaborate on exciting open-source
 - project and community -driven apps
